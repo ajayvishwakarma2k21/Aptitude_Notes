@@ -5,58 +5,55 @@
 ### 1. Passing a Signal Post, Pole, or Standing Man
 **Time to pass = Time to cover own length**  
 **Formula:**  
-$$
-\text{Time} = \frac{\text{Length of Train (m)}}{\text{Speed (m/s)}}
-$$
+
+Time = Length of Train (m) / Speed (m/s)
+
 
 ---
 
 ### 2. Passing a Stationary Object of Length (Platform, Engine)
 **Time to pass = Time to cover sum of lengths**  
 **Formula:**  
-$$
-\text{Time} = \frac{\text{Length of Train} + \text{Length of Object (m)}}{\text{Speed (m/s)}}
-$$
+
+Time = Length of Train + Length of Object (m) / Speed (m/s)
+
 
 ---
 
 ### 3. Two Trains Moving in the Same Direction
 **Relative Speed** (when $u > v$):  
-$$
-\text{Relative Speed} = u - v
-$$
+Relative Speed = u - v
+
 **Time for Faster Train to Cross Slower Train:**  
-$$
-\text{Time} = \frac{\text{Sum of Lengths (m)}}{\text{Relative Speed (m/s)}}
-$$
+Time = Sum of Lengths (m) / Relative Speed (m/s)
+
 
 ---
 
 ### 4. Two Trains Moving in Opposite Directions
 **Relative Speed:**  
-$$
-\text{Relative Speed} = u + v
-$$
+Relative Speed = u + v
+
 **Time to Cross Each Other:**  
-$$
-\text{Time} = \frac{\text{Sum of Lengths (m)}}{\text{Relative Speed (m/s)}}
-$$
+
+Time = Sum of Lengths (m) / Relative Speed (m/s)
+
 
 ---
 
 ### 5. Speed Ratio After Crossing (Two Trains Start from Different Points)
 If after crossing, they take $a$ and $b$ hours to reach their destinations:  
-$$
-\text{A's Speed} : \text{B's Speed} = \sqrt{b} : \sqrt{a}
-$$
+
+A's Speed : B's Speed = sqrt{b} : sqrt{a}
+
 
 ---
 
 ### 6. Speed Conversion  
 To convert km/h to m/s:  
-$$
-1 \text{ km/h} = \frac{5}{18} \text{ m/s}
-$$
+
+1 km/h * 5 / 18 m/s
+
 
 ---
 
